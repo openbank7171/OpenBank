@@ -1,0 +1,18 @@
+#roni{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    width: 420px;
+    background: red;
+    margin-top: -890px;
+    margin-left: 68vw;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    visibility: hidden;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    text-shadow: 0px 0px 5px white;
+    position: fixed;
+}
